@@ -20,7 +20,6 @@ class Solution {
                             return {i,j};
                             
                         }
-                        
                     }       
         }
             return {};
